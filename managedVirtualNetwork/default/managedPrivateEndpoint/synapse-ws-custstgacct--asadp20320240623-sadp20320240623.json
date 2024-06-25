@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-custstgacct--asadp20320240623-sadp20320240623",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/55fc73a2-7950-48d0-86e7-63d56b288f15/resourceGroups/rg-dp203/providers/Microsoft.Storage/storageAccounts/sadp20320240623",
+		"groupId": "dfs",
+		"fqdns": [
+			"sadp20320240623.dfs.core.windows.net"
+		]
+	}
+}
