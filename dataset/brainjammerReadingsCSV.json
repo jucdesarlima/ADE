@@ -1,0 +1,47 @@
+{
+	"name": "brainjammerReadingsCSV",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureFileStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureFileStorageLocation",
+				"fileName": "ALL_SCENARIO_ELECTRODE_FREQUENCY_VALUE.csv"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": [
+			{
+				"name": "SESSION_DATETIME",
+				"type": "String"
+			},
+			{
+				"name": "READING_DATETIME",
+				"type": "String"
+			},
+			{
+				"name": "SCENARIO",
+				"type": "String"
+			},
+			{
+				"name": "ELECTRODE",
+				"type": "String"
+			},
+			{
+				"name": "FREQUENCY",
+				"type": "String"
+			},
+			{
+				"name": "VALUE",
+				"type": "String"
+			}
+		]
+	}
+}
