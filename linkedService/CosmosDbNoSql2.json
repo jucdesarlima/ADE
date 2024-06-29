@@ -6,7 +6,7 @@
 		"type": "CosmosDb",
 		"typeProperties": {
 			"connectionString": "AccountEndpoint=https://csharpguitar20240629.documents.azure.com:443/;Database=brainjammer;",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIlNZTkFQU0VANENEODdBNTItQkFGRS00NzNDLUIxOTktRkE1NUFDRERFOTBCX2JmZDIxNzE4LTNjOWEtNDkxZS1hMTNjLWYyOGUzNzFiODc0YiINCn0="
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIlNZTkFQU0VANENEODdBNTItQkFGRS00NzNDLUIxOTktRkE1NUFDRERFOTBCXzFjMGE4MDhjLTMyZWUtNGM5ZC05M2NiLWFiNGI1OWJmY2NhMyINCn0="
 		},
 		"connectVia": {
 			"referenceName": "AutoResolveIntegrationRuntime",
