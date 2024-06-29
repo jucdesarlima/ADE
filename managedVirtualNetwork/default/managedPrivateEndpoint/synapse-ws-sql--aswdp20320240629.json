@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--aswdp20320240629",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/985b8080-8a88-43dc-9fe3-d10fb9fb890a/resourceGroups/rg-dp203/providers/Microsoft.Synapse/workspaces/aswdp20320240629",
+		"groupId": "sql",
+		"fqdns": [
+			"aswdp20320240629.02ea168c-a99b-4d96-b3d9-98c3442ae053.sql.azuresynapse.net"
+		]
+	}
+}

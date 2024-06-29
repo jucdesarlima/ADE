@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-custstgacct--aswdp20320240629-csharpguitar20240629",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/985b8080-8a88-43dc-9fe3-d10fb9fb890a/resourceGroups/rg-dp203/providers/Microsoft.Storage/storageAccounts/csharpguitar20240629",
+		"groupId": "dfs",
+		"fqdns": [
+			"csharpguitar20240629.dfs.core.windows.net"
+		]
+	}
+}
